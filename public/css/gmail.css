@@ -1,0 +1,107 @@
+
+
+.will {
+	height: 35px;
+	width: 35px;
+	border-radius: 40%;
+}
+
+.topswag {
+	color: grey;
+	margin-right: 10px;
+}
+
+.searchicon {
+	background-color: #4285f4;
+	width:60px;
+}
+
+#nav-bar {
+	float: right;
+	margin:10px;
+}
+
+.gimage {
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.topbar {
+	background-color: #f1f1f1;
+	border-bottom: 1px solid #f1f1f1;
+}
+
+.input-group {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.glyphicon-search {
+	color: white;
+}
+
+.box {
+	width: 50px;
+}
+
+.left-b {
+	margin-top: 8px;
+	width: 70px;
+	background-color: #f1f1f1;
+}
+
+.middle-b {
+	margin: 8px;
+	width: 70px;
+	background-color: #f1f1f1;
+}
+
+.right-b {
+	margin: 8px;
+	width: 70px;
+	background-color: #f1f1f1;
+}
+
+h4 {
+	color: #d14836;
+	margin: 20px;
+}
+
+.compose {
+	margin-top: 10px;
+	margin-bottom: 15px;
+	margin-left: 20px;
+	width: 120px;
+	height: 30px;
+	border-radius: 5%;
+	background-color: #d14836; 
+	border-color: #d14836;
+	color:#f1f1f1;
+}
+
+.lists {
+	margin-left: 25px;
+
+}
+
+.inbox {
+	color: #d14836;
+}
+
+p {
+	color: black;
+}
+
+
+a:hover {
+	text-decoration:none;
+}
+
+.emails {
+	border-bottom: 1px solid #f1f1f1;
+	margin-top: 10px;
+}
+
+.navbar-two {
+	border-bottom: 1px solid #f1f1f1;
+}
